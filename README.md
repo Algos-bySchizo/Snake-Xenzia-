@@ -14,7 +14,6 @@ A classic Snake game implementation built with Python's Turtle graphics library.
 - [Usage](#-usage)
 - [Code Structure](#-code-structure)
 - [Technologies Used](#-technologies-used)
-- [Screenshots](#-screenshots)
 - [Contributing](#-contributing)
 - [License](#-license)
 
@@ -47,7 +46,7 @@ A classic Snake game implementation built with Python's Turtle graphics library.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/snake-xenzia.git
+   https://github.com/Algos-bySchizo/Snake-Xenzia-.git
    cd snake-xenzia
    ```
 
@@ -93,10 +92,6 @@ snake-xenzia/
 - **Random Module**: For food positioning
 - **Time Module**: For game loop timing
 
-## 📸 Screenshots
-
-*[Screenshots would be added here showing gameplay, score display, and game over screen]*
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
@@ -131,8 +126,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Project Link**: [https://github.com/yourusername/snake-xenzia](https://github.com/yourusername/snake-xenzia)
-- **Issues**: [https://github.com/yourusername/snake-xenzia/issues](https://github.com/yourusername/snake-xenzia/issues)
+- **Project Link**: [[https://github.com/Algos-bySchizo/snake-xenzia](https://github.com/Algos-bySchizo/Snake-Xenzia-)]
 
 ---
 
